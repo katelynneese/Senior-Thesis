@@ -16,3 +16,6 @@ Image Processing.ipynb: Modeling quasars individually, using the same functions 
 
 Fast Image Processing.ipynb: My attempt at making the modelling process faster. It ended up not working and I ran out of time to try and improve it. 
 
+Combined HSC SDSS data.ipynb: After matching the SDSS data to the HSC data, I did some basic analysis (such as magnitude vs redshift) and et cetera. 
+
+median quasar color plots.ipynb: My preliminary work, I found an approximate magnitude for the host galaxies by subtracting the PSFmodel and Cmodel flux and converting back to magnitudes. I then plotted the medians of the resulting colors (ex. g - r, r - i...) versus redshift.
